@@ -12,5 +12,14 @@
 3. [Презентация "Ссылка, псевдоссылка, кнопка"](http://pepelsbey.net/pres/push-it/)
 4. [Статья Искусство семантики HTML, часть 1](http://frontender.info/the-art-of-html-semantics-pt1/)
 5. [Почему плохо использовать таблицы для раскладки](http://phrogz.net/css/WhyTablesAreBadForLayout.html)
+6. [Список элементов, сгруппированных по назначению](http://www.w3schools.com/tags/ref_byfunc.asp)
+7. [Описание семантических HTML5 элементов](http://www.w3schools.com/html/html5_semantic_elements.asp)
+8. [html5doctor.com - сайт, на котором описано в каком случае каждый из элементов уместно использовать](http://html5doctor.com/)
+9. [Избегаем популярных ошибок в HTML5](http://web-standards.ru/articles/avoiding-html5-mistakes/)
+#### Accessibility
+1. [Статья WAI-ARIA: стандарт доступности активных интернет-приложений](http://habrahabr.ru/post/40730/)
+2. [Стандарт WAI-ARIA, roles](http://www.w3.org/TR/wai-aria/roles)
+3. [Some practical ARIA examples to enhance your application accessibility](http://heydonworks.com/practical_aria_examples/)
+
 
 
