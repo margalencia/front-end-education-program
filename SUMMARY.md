@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Git](Git.md)
 * [Instruments](instruments.md)
-* [HTML Introduction](html_introduction.md)
 * [Introduction](introduction.md)
+* [HTML Introduction](html_introduction.md)
 
