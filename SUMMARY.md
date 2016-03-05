@@ -5,5 +5,5 @@
 * [Instruments](instruments.md)
 * [Introduction](introduction.md)
 * [Layout](layout.md)
-   * [HTML](html.md)
+   * [HTML Basics](html.md)
 
