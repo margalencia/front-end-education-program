@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Git](Git.md)
+* [Git](gitmd.md)
 * [Instruments](instruments.md)
 * [Introduction](introduction.md)
 * [HTML Introduction](html_introduction.md)
