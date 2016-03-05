@@ -20,6 +20,12 @@
 1. [Статья WAI-ARIA: стандарт доступности активных интернет-приложений](http://habrahabr.ru/post/40730/)
 2. [Стандарт WAI-ARIA, roles](http://www.w3.org/TR/wai-aria/roles)
 3. [Some practical ARIA examples to enhance your application accessibility](http://heydonworks.com/practical_aria_examples/)
+#### Microdata
+
+1. [Статья на Яндексе о применении микроразметки](https://help.yandex.ru/webmaster/schema-org/what-is-schema-org.xml)
+2. [Статья на Яндексе о микроформатах](https://help.yandex.ru/webmaster/microformats/what-is-microformat.xml)
+3. [schema.org](http://schema.org/docs/gs.html)
+4. [Статья Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам](http://habrahabr.ru/company/yandex/blog/246003/)
 
 
 
