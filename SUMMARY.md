@@ -4,6 +4,6 @@
 * [Git](git.md)
 * [Instruments](instruments.md)
 * [Introduction](introduction.md)
-* [HTML Introduction](html_introduction.md)
+* [Layout](html_introduction.md)
    * [HTML](html.md)
 
