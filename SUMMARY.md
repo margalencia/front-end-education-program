@@ -12,5 +12,5 @@
    * [Transition, transform, animation](transition_transform_animation.md)
    * [Approaches, CSS Architecture](approaches_css_architecture.md)
    * [CSS Tools](css_tools.md)
-* JavaScript
+* [JavaScript](javascript.md)
 
