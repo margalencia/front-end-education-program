@@ -13,5 +13,5 @@
    * [Approaches, CSS Architecture](approaches_css_architecture.md)
    * [CSS Tools](css_tools.md)
 * [JavaScript](javascript.md)
-   * JS basics, data structures
+   * [JS basics, data structures](js_basics_data_structures.md)
 
