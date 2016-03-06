@@ -37,7 +37,7 @@
 4. [Writing CSS (and Sass) that doesn’t suck](http://ashleynolan.co.uk/blog/writing-css-and-sass-that-doesnt-suck)
 5. [A Scalable CSS Reading List](https://github.com/davidtheclark/scalable-css-reading-list)
 6. [Code smells in CSS](http://csswizardry.com/2012/11/code-smells-in-css/)
-
+## Hometask
 
 
 
