@@ -21,9 +21,9 @@
 4. [Как сделать один сайт для всех устройств (Responsive Web Design)](http://habrahabr.ru/post/125247/)
 5. [How To Use CSS3 Media Queries To Create a Mobile Version of Your Website](http://www.smashingmagazine.com/2010/07/19/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/)
 ## BEM
-1. [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) (перевод Головокружительное погружение в БЭМ)
-2. A New Front-End Methodology: BEM
-3. Доклад (смотреть 2:11:21 - Пишем БЭМ правильно, презентация)
+1. [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) (перевод [Головокружительное погружение в БЭМ](http://frontender.info/MindBEMding/))
+2. [A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
+3. [Доклад](https://www.youtube.com/watch?v=t8Td3Oq47yE) (смотреть 2:11:21 - Пишем БЭМ правильно, [презентация](http://webstandardsdays.ru/2014/12/06/pres/bem-right/))
 4.  http://philipwalton.com/articles/side-effects-in-css/
 5.  https://ru.bem.info/forum/
 6.  http://www.sitepoint.com/working-bem-scale-advice-top-developers/
