@@ -17,4 +17,5 @@
    * [Functions, prototypes](functions_prototypes.md)
    * [DOM, Events](dom_events.md)
    * [AJAX, Promices, Web sockets](ajax_promices_web_sockets.md)
+   * JS patterns
 
