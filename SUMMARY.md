@@ -20,4 +20,5 @@
    * [JS patterns](js_patterns.md)
    * [JS tools](js_tools.md)
    * AngularJS
+   * React.js
 
