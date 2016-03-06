@@ -14,5 +14,5 @@
    * [CSS Tools](css_tools.md)
 * [JavaScript](javascript.md)
    * [JS basics, data structures](js_basics_data_structures.md)
-   * Functions, prototypes
+   * [Functions, prototypes](functions_prototypes.md)
 
