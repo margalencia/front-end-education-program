@@ -16,4 +16,5 @@
    * [JS basics, data structures](js_basics_data_structures.md)
    * [Functions, prototypes](functions_prototypes.md)
    * [DOM, Events](dom_events.md)
+   * AJAX, Promices, Web sockets
 
