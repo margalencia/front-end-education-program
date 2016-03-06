@@ -15,4 +15,5 @@
 * [JavaScript](javascript.md)
    * [JS basics, data structures](js_basics_data_structures.md)
    * [Functions, prototypes](functions_prototypes.md)
+   * DOM, Events
 
