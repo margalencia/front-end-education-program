@@ -18,4 +18,5 @@
    * [DOM, Events](dom_events.md)
    * [AJAX, Promices, Web sockets](ajax_promices_web_sockets.md)
    * [JS patterns](js_patterns.md)
+   * JS tools
 
