@@ -19,4 +19,5 @@
    * [AJAX, Promices, Web sockets](ajax_promices_web_sockets.md)
    * [JS patterns](js_patterns.md)
    * [JS tools](js_tools.md)
+   * AngularJS
 
