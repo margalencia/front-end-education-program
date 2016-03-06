@@ -21,4 +21,5 @@
    * [JS tools](js_tools.md)
    * AngularJS
    * React.js
+   * JS Tests
 
