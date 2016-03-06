@@ -14,7 +14,7 @@
 4. [http://dmitrysoshnikov.com/ecmascript/ru-chapter-3-this/](http://dmitrysoshnikov.com/ecmascript/ru-chapter-3-this/) 
 5. [http://dmitrysoshnikov.com/ecmascript/ru-chapter-4-scope-chain/](http://dmitrysoshnikov.com/ecmascript/ru-chapter-4-scope-chain/) 
 6. [http://dmitrysoshnikov.com/ecmascript/ru-chapter-5-functions/](http://dmitrysoshnikov.com/ecmascript/ru-chapter-5-functions/)
-7. http://dmitrysoshnikov.com/ecmascript/ru-chapter-6-closures/ 
-8. http://dmitrysoshnikov.com/ecmascript/ru-chapter-7-1-oop-general-theory/ 
-9. http://dmitrysoshnikov.com/ecmascript/ru-chapter-7-2-oop-ecmascript-implementation/ 
-10. http://dmitrysoshnikov.com/ecmascript/ru-chapter-8-evaluation-strategy/
+7. [http://dmitrysoshnikov.com/ecmascript/ru-chapter-6-closures/](http://dmitrysoshnikov.com/ecmascript/ru-chapter-6-closures/) 
+8. [http://dmitrysoshnikov.com/ecmascript/ru-chapter-7-1-oop-general-theory/](http://dmitrysoshnikov.com/ecmascript/ru-chapter-7-1-oop-general-theory/) 
+9. [http://dmitrysoshnikov.com/ecmascript/ru-chapter-7-2-oop-ecmascript-implementation/](http://dmitrysoshnikov.com/ecmascript/ru-chapter-7-2-oop-ecmascript-implementation/) 
+10. [http://dmitrysoshnikov.com/ecmascript/ru-chapter-8-evaluation-strategy/](http://dmitrysoshnikov.com/ecmascript/ru-chapter-8-evaluation-strategy/)
