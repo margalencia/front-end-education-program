@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Git](git.md)
 * [Instruments](instruments.md)
-* [Web Browsers](introduction.md)
+* [Web Browsers](web_browsers.md)
 * [Layout](layout.md)
    * [HTML](html.md)
    * [CSS Basics](css_basics.md)
