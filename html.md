@@ -24,5 +24,5 @@
 3. [schema.org](http://schema.org/docs/gs.html)
 4. [Статья Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам](http://habrahabr.ru/company/yandex/blog/246003/)
 
-
+## Specification
 
