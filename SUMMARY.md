@@ -6,7 +6,7 @@
 * [Web Browsers](web_browsers.md)
 * [Layout](layout.md)
    * [HTML](html.md)
-   * Accessibility
+   * [Accessibility](accessibility.md)
    * [CSS Basics](css_basics.md)
    * [Flow](flow.md)
    * [Page layout](page_layout.md)
