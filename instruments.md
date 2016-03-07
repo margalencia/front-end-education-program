@@ -24,5 +24,11 @@
 6. [Frontender Magazine](http://frontender.info/)
 7. [Habraharb - Фронтенд](https://habrahabr.ru/posts/frontend/)
 
-Twitter, Conferences
-## Online editors, Problem solving
+## Code Playgrounds
+1. [JS Fiddle](https://jsfiddle.net/)
+2. [JS Bin](http://jsbin.com/)
+3. [CodePen](http://codepen.io/)
+
+## Troubleshooting
+1. [StackOverflow](http://stackoverflow.com/)
+2. [Can I Use](http://caniuse.com/)
