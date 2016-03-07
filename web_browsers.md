@@ -9,8 +9,5 @@
 
 ## Почитать в будущем
 1. [Tali Garsiel and Paul Irish "How Browsers Work"](http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
-2. 
 
-
-## HTML document structure
 ## Очередь загрузки
