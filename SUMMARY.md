@@ -6,13 +6,13 @@
 * [Web Browsers](web_browsers.md)
 * [Layout](layout.md)
    * [HTML](html.md)
+   * Accessibility
    * [CSS Basics](css_basics.md)
    * [Flow](flow.md)
    * [Page layout](page_layout.md)
    * [Transition, transform, animation](transition_transform_animation.md)
    * [Approaches, CSS Architecture](approaches_css_architecture.md)
    * [CSS Tools](css_tools.md)
-   * Accessibility
 * [JavaScript](javascript.md)
    * [JS basics, data structures](js_basics_data_structures.md)
    * [Functions, prototypes](functions_prototypes.md)
