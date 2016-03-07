@@ -10,5 +10,10 @@
 4. [WebStorm](https://www.jetbrains.com/webstorm/)
 
 ## Photoshop lessons
+1. [Качественные уроки веб-дизайна](http://www.dejurka.ru/web-design/web-design-tutorials/)
+2. [Photoshop Basics - Фотошоп Уроки](http://egraphic.ru/photoshop/basics/)
+3. [Photoshop Tutorials.tv](http://www.youtube.com/user/NewWorldOps/videos)
+4. [20 AMAZING PHOTOSHOP WEB DESIGN TUTORIALS](http://tutvid.com/web-graphic-design-inspiration/20-amazing-photoshop-web-design-tutorials/)
+
 ## Blogs, Twitter, Conferences
 ## Online editors, Problem solving
