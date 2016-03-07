@@ -18,7 +18,7 @@
 ## Blogs
 1. Subscribe to [JavaScript Weekly](http://javascriptweekly.com/), [CSS Weekly](http://css-weekly.com/)
 2. [CSS-Tricks](http://css-tricks.com/)
-2. [SmashingMagazine](http://www.smashingmagazine.com/)
+2. [Smashing Magazine](http://www.smashingmagazine.com/)
 4. [A List Apart](http://alistapart.com/articles)
 5. [Medium](https://medium.com/tag/web-development)
 6. [Frontender Magazine](http://frontender.info/)
