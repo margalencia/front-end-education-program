@@ -1,12 +1,11 @@
 # HTML
-## Beginner 
+## Beginner level
 
 1. [Формы в вебе. Роберт Харитонов (Презентация)](http://www.youtube.com/watch?v=0v6jNZaX7aM)
 2. [HTML Tags Ordered by Category](http://www.w3schools.com/tags/ref_byfunc.asp)
 3. [http://www.htmlbook.ru](http://www.htmlbook.ru)
-### Hometask
 
-## Advanced
+## Advanced level
 ### HTML Semantics
 1. [Семантическая вёрстка. Часть первая](http://pepelsbey.net/2008/04/semantic-coding-1/)
 2. [Семантическая вёрстка. Часть вторая](http://pepelsbey.net/2008/04/semantic-coding-2/)
@@ -17,10 +16,7 @@
 7. [Описание семантических HTML5 элементов](http://www.w3schools.com/html/html5_semantic_elements.asp)
 8. [html5doctor.com - сайт, на котором описано в каком случае каждый из элементов уместно использовать](http://html5doctor.com/)
 9. [Избегаем популярных ошибок в HTML5](http://web-standards.ru/articles/avoiding-html5-mistakes/)
-#### Accessibility
-1. [Статья WAI-ARIA: стандарт доступности активных интернет-приложений](http://habrahabr.ru/post/40730/)
-2. [Стандарт WAI-ARIA, roles](http://www.w3.org/TR/wai-aria/roles)
-3. [Some practical ARIA examples to enhance your application accessibility](http://heydonworks.com/practical_aria_examples/)
+
 #### Microdata
 
 1. [Статья на Яндексе о применении микроразметки](https://help.yandex.ru/webmaster/schema-org/what-is-schema-org.xml)
