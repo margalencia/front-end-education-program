@@ -18,6 +18,7 @@
 
 ## Advanced level
 1.  [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
+2.  
 ### HTML Semantics
 1. [Семантическая вёрстка. Часть первая](http://pepelsbey.net/2008/04/semantic-coding-1/)
 2. [Семантическая вёрстка. Часть вторая](http://pepelsbey.net/2008/04/semantic-coding-2/)
@@ -36,7 +37,7 @@
 3. [schema.org](http://schema.org/docs/gs.html)
 4. [Статья Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам](http://habrahabr.ru/company/yandex/blog/246003/)
 
-## Specification
+## Specifications
 1. [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
 2. [WHATWG Spec](https://whatwg.org/)
 
