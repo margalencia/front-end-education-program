@@ -14,7 +14,6 @@
   * [HTML Form Elements](http://www.w3schools.com/html/html_form_elements.asp) 
   * [HTML Input Types](http://www.w3schools.com/html/html_form_input_types.asp)
   * [HTML Input Attributes](http://www.w3schools.com/html/html_form_attributes.asp)
-3. [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
 3. [Markup Validation Service](https://validator.w3.org/)
 
 ## Advanced level
@@ -40,3 +39,6 @@
 1. [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
 2. [WHATWG Spec](https://whatwg.org/)
 
+## Почитать в будущем
+1.  [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
+2.  [MDN "HTML forms guide"](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
