@@ -9,7 +9,7 @@
 3. [HTML Body Tag](http://www.w3schools.com/tags/tag_body.asp) 
 4. [HTML Attributes](http://www.w3schools.com/html/html_attributes.asp)
 4. [HTML Comments](http://www.w3schools.com/html/html_comments.asp)
-2. [HTML Tags Ordered by Category](http://www.w3schools.com/tags/ref_byfunc.asp)
+2. [MDN "HTML element reference"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 3. [HTML Forms](http://www.w3schools.com/html/html_forms.asp)
   * [HTML Form Elements](http://www.w3schools.com/html/html_form_elements.asp) 
   * [HTML Input Types](http://www.w3schools.com/html/html_form_input_types.asp)
