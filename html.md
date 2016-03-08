@@ -4,11 +4,17 @@
 1. [HTML <!DOCTYPE> Declaration](http://www.w3schools.com/tags/tag_doctype.asp) 
 2. [Article "What does a doctype do?"](https://blog.whiteboard.is/answering-front-end-developer-interview-questions-what-does-a-doctype-do-21bc97c7e873#.f337zfzet)
 3. [HTML Head](http://www.w3schools.com/html/html_head.asp)
+4. [HTML Encoding (Character Sets)](http://www.w3schools.com/html/html_charset.asp)
 3. [HTML Body Tag](http://www.w3schools.com/tags/tag_body.asp) 
+4. [HTML Attributes](http://www.w3schools.com/html/html_attributes.asp)
 4. [HTML Comments](http://www.w3schools.com/html/html_comments.asp)
-3. [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
 2. [HTML Tags Ordered by Category](http://www.w3schools.com/tags/ref_byfunc.asp)
-3. [http://www.htmlbook.ru](http://www.htmlbook.ru)
+3. [HTML Forms](http://www.w3schools.com/html/html_forms.asp)
+  * [HTML Form Elements](http://www.w3schools.com/html/html_form_elements.asp) 
+  * [HTML Input Types](http://www.w3schools.com/html/html_form_input_types.asp)
+  * [HTML Input Attributes](http://www.w3schools.com/html/html_form_attributes.asp)
+3. [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
+3. [Markup Validation Service](https://validator.w3.org/)
 
 ## Advanced level
 ### HTML Semantics
