@@ -18,7 +18,7 @@
 
 ## Advanced level
 1.  [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
-2.  
+ 
 ### HTML Semantics
 1. [Семантическая вёрстка. Часть первая](http://pepelsbey.net/2008/04/semantic-coding-1/)
 2. [Семантическая вёрстка. Часть вторая](http://pepelsbey.net/2008/04/semantic-coding-2/)
