@@ -24,10 +24,9 @@
 2. [Семантическая вёрстка. Часть вторая](http://pepelsbey.net/2008/04/semantic-coding-2/)
 3. [Презентация "Ссылка, псевдоссылка, кнопка"](http://pepelsbey.net/pres/push-it/)
 4. [Статья Искусство семантики HTML, часть 1](http://frontender.info/the-art-of-html-semantics-pt1/)
-5. [Why Tables Are Bad (For Layout)](http://phrogz.net/css/WhyTablesAreBadForLayout.html)
-6. [Список элементов, сгруппированных по назначению](http://www.w3schools.com/tags/ref_byfunc.asp)
-7. [Описание семантических HTML5 элементов](http://www.w3schools.com/html/html5_semantic_elements.asp)
-8. [html5doctor.com - сайт, на котором описано в каком случае каждый из элементов уместно использовать](http://html5doctor.com/)
+7. [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+8. [Why Tables Are Bad (For Layout)](http://phrogz.net/css/WhyTablesAreBadForLayout.html)
+8. [html5doctor.com](http://html5doctor.com/)
 9. [Избегаем популярных ошибок в HTML5](http://web-standards.ru/articles/avoiding-html5-mistakes/)
 
 #### Microdata
