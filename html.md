@@ -1,7 +1,8 @@
 # HTML
 ## Beginner level
 
-1. [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
+1. [DOCTYPE](http://www.w3schools.com/tags/tag_doctype.asp)
+3. [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
 2. [HTML Tags Ordered by Category](http://www.w3schools.com/tags/ref_byfunc.asp)
 3. [http://www.htmlbook.ru](http://www.htmlbook.ru)
 
@@ -26,4 +27,5 @@
 
 ## Specification
 1. [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
+2. [WHATWG Spec](https://whatwg.org/)
 
