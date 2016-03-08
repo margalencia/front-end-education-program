@@ -25,4 +25,5 @@
 4. [Статья Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам](http://habrahabr.ru/company/yandex/blog/246003/)
 
 ## Specification
+1. [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
 
