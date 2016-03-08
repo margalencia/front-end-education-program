@@ -17,14 +17,14 @@
 3. [Markup Validation Service](https://validator.w3.org/)
 
 ## Advanced level
-1.  [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
+1.  [Video "Формы в вебе. Роберт Харитонов"](http://www.youtube.com/watch?v=0v6jNZaX7aM), [presentation](http://rhr.me/pres/forms/)
  
 ### HTML Semantics
 1. [Семантическая вёрстка. Часть первая](http://pepelsbey.net/2008/04/semantic-coding-1/)
 2. [Семантическая вёрстка. Часть вторая](http://pepelsbey.net/2008/04/semantic-coding-2/)
 3. [Презентация "Ссылка, псевдоссылка, кнопка"](http://pepelsbey.net/pres/push-it/)
 4. [Статья Искусство семантики HTML, часть 1](http://frontender.info/the-art-of-html-semantics-pt1/)
-5. [Почему плохо использовать таблицы для раскладки](http://phrogz.net/css/WhyTablesAreBadForLayout.html)
+5. [Why Tables Are Bad (For Layout)](http://phrogz.net/css/WhyTablesAreBadForLayout.html)
 6. [Список элементов, сгруппированных по назначению](http://www.w3schools.com/tags/ref_byfunc.asp)
 7. [Описание семантических HTML5 элементов](http://www.w3schools.com/html/html5_semantic_elements.asp)
 8. [html5doctor.com - сайт, на котором описано в каком случае каждый из элементов уместно использовать](http://html5doctor.com/)
