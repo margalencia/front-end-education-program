@@ -6,7 +6,7 @@
 2. [Article "What does a doctype do?"](https://blog.whiteboard.is/answering-front-end-developer-interview-questions-what-does-a-doctype-do-21bc97c7e873#.f337zfzet)
 3. [HTML Head](http://www.w3schools.com/html/html_head.asp)
 4. [HTML Encoding (Character Sets)](http://www.w3schools.com/html/html_charset.asp)
-3. [HTML Body Tag](http://www.w3schools.com/tags/tag_body.asp) 
+3. [HTML ```<body>``` Tag](http://www.w3schools.com/tags/tag_body.asp) 
 4. [HTML Attributes](http://www.w3schools.com/html/html_attributes.asp)
 4. [HTML Comments](http://www.w3schools.com/html/html_comments.asp)
 2. [MDN "HTML element reference"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
@@ -25,9 +25,10 @@
 3. [Презентация "Ссылка, псевдоссылка, кнопка"](http://pepelsbey.net/pres/push-it/)
 4. [Статья Искусство семантики HTML, часть 1](http://frontender.info/the-art-of-html-semantics-pt1/)
 7. [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+8. [Избегаем популярных ошибок в HTML5](http://web-standards.ru/articles/avoiding-html5-mistakes/)
+9. [HTML5 articles and sections: what’s the difference?](http://www.brucelawson.co.uk/2010/html5-articles-and-sections-whats-the-difference/)
 8. [Why Tables Are Bad (For Layout)](http://phrogz.net/css/WhyTablesAreBadForLayout.html)
-8. [html5doctor.com](http://html5doctor.com/)
-9. [Избегаем популярных ошибок в HTML5](http://web-standards.ru/articles/avoiding-html5-mistakes/)
+8. [html5doctor.com](http://html5doctor.com/) - use it to choose a proper HTML element
 
 #### Microdata
 
