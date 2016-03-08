@@ -4,7 +4,7 @@
 1. [HTML <!DOCTYPE> Declaration](http://www.w3schools.com/tags/tag_doctype.asp) 
 2. [Article "What does a doctype do?"](https://blog.whiteboard.is/answering-front-end-developer-interview-questions-what-does-a-doctype-do-21bc97c7e873#.f337zfzet)
 3. [HTML Head](http://www.w3schools.com/html/html_head.asp)
-3. [HTML \<body\> Tag](http://www.w3schools.com/tags/tag_body.asp) 
+3. [HTML &lt;body&gt; Tag](http://www.w3schools.com/tags/tag_body.asp) 
 4. [HTML Comments](http://www.w3schools.com/html/html_comments.asp)
 3. [Формы в вебе. Роберт Харитонов](http://www.youtube.com/watch?v=0v6jNZaX7aM) ([Презентация](http://rhr.me/pres/forms/))
 2. [HTML Tags Ordered by Category](http://www.w3schools.com/tags/ref_byfunc.asp)
