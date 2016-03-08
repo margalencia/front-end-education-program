@@ -16,7 +16,7 @@
 4. [20 AMAZING PHOTOSHOP WEB DESIGN TUTORIALS](http://tutvid.com/web-graphic-design-inspiration/20-amazing-photoshop-web-design-tutorials/)
 
 ## Blogs
-1. Subscribe to [JavaScript Weekly](http://javascriptweekly.com/), [CSS Weekly](http://css-weekly.com/)
+1. Subscribe to [JavaScript Weekly](http://javascriptweekly.com/), [CSS Weekly](http://css-weekly.com/), [HTML5 Weekly](http://html5weekly.com/)
 2. [CSS-Tricks](http://css-tricks.com/)
 2. [Smashing Magazine](http://www.smashingmagazine.com/)
 4. [A List Apart](http://alistapart.com/articles)
