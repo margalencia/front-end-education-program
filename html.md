@@ -17,7 +17,7 @@
 3. [Markup Validation Service](https://validator.w3.org/)
 
 ## Advanced level
-1.  [Video "Формы в вебе. Роберт Харитонов"](http://www.youtube.com/watch?v=0v6jNZaX7aM), [presentation](http://rhr.me/pres/forms/)
+1.  [Video "Формы в вебе" by Robert Haritonov](http://www.youtube.com/watch?v=0v6jNZaX7aM), [presentation](http://rhr.me/pres/forms/)
  
 ### HTML Semantics
 1. [Семантическая вёрстка. Часть первая](http://pepelsbey.net/2008/04/semantic-coding-1/)
