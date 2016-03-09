@@ -41,5 +41,5 @@
 1. [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
 2. [WHATWG Spec](https://whatwg.org/)
 
-## Почитать в будущем
+## Further reading
 1.  [MDN "HTML forms guide"](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
