@@ -9,5 +9,3 @@
 
 ## Further reading
 1. [Tali Garsiel and Paul Irish "How Browsers Work"](http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
-
-## Очередь загрузки
