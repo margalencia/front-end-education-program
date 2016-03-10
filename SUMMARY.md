@@ -5,7 +5,7 @@
 * [Instruments](instruments.md)
 * [Web Browsers](web_browsers.md)
    * [Web Browsers Beginner Level](web_browsers_beginner_level.md)
-   * Web Browsers Advanced Level
+   * [Web Browsers Advanced Level](web_browsers_advanced_level.md)
 * [Layout](layout.md)
    * [HTML](html.md)
    * [Accessibility](accessibility.md)
