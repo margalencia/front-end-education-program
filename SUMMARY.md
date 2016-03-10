@@ -8,7 +8,7 @@
    * [Web Browsers Advanced Level](web_browsers_advanced_level.md)
 * [Layout](layout.md)
    * [HTML](html.md)
-       * HTML Beginner Level
+       * [HTML Beginner Level](html_beginner_level.md)
    * [Accessibility](accessibility.md)
    * [CSS Basics](css_basics.md)
    * [Flow](flow.md)
