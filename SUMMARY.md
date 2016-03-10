@@ -4,7 +4,7 @@
 * [Git](git.md)
 * [Instruments](instruments.md)
 * [Web Browsers](web_browsers.md)
-   * Web Browsers Beginner Level
+   * [Web Browsers Beginner Level](web_browsers_beginner_level.md)
 * [Layout](layout.md)
    * [HTML](html.md)
    * [Accessibility](accessibility.md)
