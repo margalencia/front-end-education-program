@@ -1,2 +1,15 @@
 # HTML Beginner Level
-
+1. [MDN "Introduction to HTML"](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Introduction)
+2. [HTML <!DOCTYPE> Declaration](http://www.w3schools.com/tags/tag_doctype.asp) 
+2. [Article "What does a doctype do?"](https://blog.whiteboard.is/answering-front-end-developer-interview-questions-what-does-a-doctype-do-21bc97c7e873#.f337zfzet)
+3. [HTML Head](http://www.w3schools.com/html/html_head.asp)
+4. [HTML Encoding (Character Sets)](http://www.w3schools.com/html/html_charset.asp)
+3. [HTML ```<body>``` Tag](http://www.w3schools.com/tags/tag_body.asp) 
+4. [HTML Attributes](http://www.w3schools.com/html/html_attributes.asp)
+4. [HTML Comments](http://www.w3schools.com/html/html_comments.asp)
+2. [MDN "HTML element reference"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+3. [HTML Forms](http://www.w3schools.com/html/html_forms.asp)
+  * [HTML Form Elements](http://www.w3schools.com/html/html_form_elements.asp) 
+  * [HTML Input Types](http://www.w3schools.com/html/html_form_input_types.asp)
+  * [HTML Input Attributes](http://www.w3schools.com/html/html_form_attributes.asp)
+3. [Markup Validation Service](https://validator.w3.org/)
