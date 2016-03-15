@@ -1,5 +1,15 @@
 # Accessibility Advanced Level
 
-1. [Статья WAI-ARIA: стандарт доступности активных интернет-приложений](http://habrahabr.ru/post/40730/)
-2. [Стандарт WAI-ARIA, roles](http://www.w3.org/TR/wai-aria/roles)
-3. [Some practical ARIA examples to enhance your application accessibility](http://heydonworks.com/practical_aria_examples/)
+3. Video [Leonie Watson, Introduction to accessibility mechanics](https://www.youtube.com/watch?v=vWveRBWNVWI)
+4. [HTML5 Accessibility Chops: section elements](https://www.paciellogroup.com/blog/2011/03/html5-accessibility-chops-section-elements/)
+5. [ARIA in HTML](https://specs.webplatform.org/html-aria/webspecs/master/)
+4. [Keyboard Accessibility](http://webaim.org/techniques/keyboard/)
+4. [Some practical ARIA examples to enhance your application accessibility](http://heydonworks.com/practical_aria_examples/)
+
+## Further reading
+
+1. [http://webaim.org/](http://webaim.org/)
+
+## Specifications
+
+1. [https://www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility)
