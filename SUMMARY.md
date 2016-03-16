@@ -13,7 +13,6 @@
    * [Accessibility](accessibility.md)
        * [Accessibility Advanced Level](accessibility_advanced_level.md)
    * [CSS Basics](css_basics.md)
-       * CSS Basics Advanced Level
    * [Flow](flow.md)
        * [Flow Advanced Level](flow_advanced_level.md)
    * [Page layout](page_layout.md)
