@@ -12,7 +12,7 @@
        * [HTML Advanced Level](html_advanced_level.md)
    * [Accessibility](accessibility.md)
        * [Accessibility Advanced Level](accessibility_advanced_level.md)
-   * [CSS Syntax and basic data types](css_basics.md)
+   * [CSS Syntax and basic data types](css_syntax_and_basic_data_types.md)
    * [Flow](flow.md)
        * [Flow Advanced Level](flow_advanced_level.md)
    * [Page layout](page_layout.md)
