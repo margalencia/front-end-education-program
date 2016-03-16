@@ -5,12 +5,12 @@
 4. [Keyboard Accessibility](http://webaim.org/techniques/keyboard/)
 4. [Some practical ARIA examples to enhance your application accessibility](http://heydonworks.com/practical_aria_examples/)
 
+## Specifications
+
+1. [https://www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility)
+
 ## Further reading
 
 1. [http://webaim.org/](http://webaim.org/)
 2. [ARIA in HTML](https://specs.webplatform.org/html-aria/webspecs/master/)
 3. [https://www.w3.org/WAI/tutorials/](https://www.w3.org/WAI/tutorials/)
-
-## Specifications
-
-1. [https://www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility)
