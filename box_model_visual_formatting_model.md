@@ -1,4 +1,4 @@
-# Flow
+# Box model. Visual formatting model Advanced Level
 1. [Модель отображения. Основы Олег Мохов Яндекс (блочная модель)](https://tech.yandex.ru/education/shri/ekb-2013/talks/1492/)
 2. [Модель отображения. Тонкости Олег Мохов Яндекс (z-index, очистка потока)](https://tech.yandex.ru/education/shri/ekb-2013/talks/1493/)
 3. [Раскладка в CSS: поток](http://softwaremaniacs.org/blog/2005/08/27/css-layout-flow/)
@@ -20,5 +20,5 @@
 19. [http://prgssr.ru/development/5-osobennostej-pozicionirovaniya-v-css.html](http://prgssr.ru/development/5-osobennostej-pozicionirovaniya-v-css.html)
 20. [https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types)
 21. [Спецификация](http://www.w3.org/TR/CSS2/visuren.html)
-## Hometask
+
 
