@@ -17,7 +17,7 @@
 
 ## Specifications
 
-1. [http://www.w3.org/TR/css3-transitions/](http://www.w3.org/TR/css3-transitions/)
+3. [http://www.w3.org/TR/css3-transitions/](http://www.w3.org/TR/css3-transitions/)
 2. [http://dev.w3.org/csswg/css-transforms-1/](http://dev.w3.org/csswg/css-transforms-1/)
 3. [http://www.w3.org/TR/css3-animations/](http://www.w3.org/TR/css3-animations/)
 
