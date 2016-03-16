@@ -20,4 +20,3 @@
 ## Сброс стилей
 1. [http://habrahabr.ru/post/45296/](http://habrahabr.ru/post/45296/)
 2. [http://linux.yaroslavl.ru/docs/www/css/reset_css.html](http://linux.yaroslavl.ru/docs/www/css/reset_css.html)
-## Hometask
