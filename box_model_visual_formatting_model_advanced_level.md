@@ -9,7 +9,7 @@
 ### Positioning
 
 1. [5 Things You Might Not Know About the CSS Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) ([rus](http://prgssr.ru/development/5-osobennostej-pozicionirovaniya-v-css.html))
-7.  [Centering in CSS: A Complete Guide](http://css-tricks.com/centering-css-complete-guide/)
+7. [Centering in CSS: A Complete Guide](http://css-tricks.com/centering-css-complete-guide/)
 5. [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt)
 
 ### Flexbox
