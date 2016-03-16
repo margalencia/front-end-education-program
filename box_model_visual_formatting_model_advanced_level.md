@@ -7,8 +7,13 @@
 5. [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
 ## Specifications
- 
+
+1. [https://www.w3.org/TR/2011/REC-CSS2-20110607/box.html](https://www.w3.org/TR/2011/REC-CSS2-20110607/box.html)
 2. [https://www.w3.org/TR/CSS2/visuren.html](https://www.w3.org/TR/CSS2/visuren.html)
+3. [https://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html](https://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html)
+4. [https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html](https://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html)
+5. [https://www.w3.org/TR/css-flexbox-1/](https://www.w3.org/TR/css-flexbox-1/)
+6. h[ttps://www.w3.org/TR/css-grid-1/](https://www.w3.org/TR/css-grid-1/)
 
 ## Further reading
 
