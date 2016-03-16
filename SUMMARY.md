@@ -13,7 +13,7 @@
    * [Accessibility](accessibility.md)
        * [Accessibility Advanced Level](accessibility_advanced_level.md)
    * [CSS Syntax, selectors and basic data types](css_syntax_selectors_and_basic_data_types.md)
-   * [Box model. Visual formatting model](flow.md)
+   * [Box model. Visual formatting model](box_model_visual_formatting_model.md)
        * [Flow Advanced Level](flow_advanced_level.md)
    * [Page layout](page_layout.md)
    * [Transition, transform, animation](transition_transform_animation.md)
