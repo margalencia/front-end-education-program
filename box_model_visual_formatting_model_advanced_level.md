@@ -1,6 +1,7 @@
 # Box model. Visual formatting model Advanced Level
 
 1. [Learn CSS Layout the pedantic way](http://book.mixu.net/css/) 
+2. [5 Things You Might Not Know About the CSS Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) ([rus](http://prgssr.ru/development/5-osobennostej-pozicionirovaniya-v-css.html))
 2. [The Anti-hero of CSS Layout - "display:table"](http://colintoh.com/blog/display-table-anti-hero)
 3. [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
 4. [`flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/)
