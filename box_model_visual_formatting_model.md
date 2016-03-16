@@ -1,4 +1,4 @@
-# Box model. Visual formatting model Advanced Level
+# Box model. Visual formatting model
 
 
 
