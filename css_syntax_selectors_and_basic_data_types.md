@@ -1,4 +1,4 @@
-# CSS Basics
+# CSS Syntax, selectors and basic data types
 ## Типы селекторов
 1. [http://www.w3schools.com/cssref/css_selectors.asp](http://www.w3schools.com/cssref/css_selectors.asp)
 2. П[резентация CSS: Селекторы, псевдоклассы. Специфичность и наследование](https://events.yandex.ru/lib/talks/560/)
