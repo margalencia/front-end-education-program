@@ -1,5 +1,5 @@
 # Git
-## Advanced level
+
 1. [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
 2. [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 3. [http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
