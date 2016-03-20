@@ -8,12 +8,12 @@
 4.  [http://philipwalton.com/articles/side-effects-in-css/](http://philipwalton.com/articles/side-effects-in-css/)
 5.  [https://ru.bem.info/forum/](https://ru.bem.info/forum/)
 6.  [http://www.sitepoint.com/working-bem-scale-advice-top-developers/](http://www.sitepoint.com/working-bem-scale-advice-top-developers/)
-7.  
+ 
 ## SMACCS
 
 1. [http://smacss.com/](http://smacss.com/)
 2. [BEM and SMACSS: Advice From Developers Who’ve Been There](http://www.sitepoint.com/bem-smacss-advice-from-developers/)
-3. 
+
 ## Scalable CSS
 
 1. [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
