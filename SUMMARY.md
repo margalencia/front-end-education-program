@@ -19,7 +19,7 @@
    * [Transition, transform, animation](transition_transform_animation.md)
        * [Transition, transform, animation Advanced level](transition,_transform,_animation_advanced_level.md)
    * [Approaches, CSS Architecture](approaches_css_architecture.md)
-   * Layout for mobile
+   * [Layout for mobile](layout_for_mobile.md)
    * [CSS Tools](css_tools.md)
 * [JavaScript](javascript.md)
    * [JS basics, data structures](js_basics_data_structures.md)
