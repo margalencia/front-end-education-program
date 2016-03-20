@@ -14,7 +14,7 @@
 3. Статья [Responsive & Adaptive Web Design](https://www.lullabot.com/blog/article/responsive-adaptive-web-design)
 4. [9 основных принципов отзывчивого веб-дизайна](http://habrahabr.ru/post/243247/)
 5. На будущее почитать книгу [ADAPTIVE WEB DESIGN](http://adaptivewebdesign.info/1st-edition/)
-6. 
+
 ## Mobile first
 
 1. Статья [Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
@@ -23,7 +23,7 @@
 
 1. [https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 2. [http://www.w3schools.com/cssref/css3_pr_mediaquery.asp](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
-3. 
+
 ## Responsive практика
 
 1. [A collection of patterns and modules for responsive designs.](http://bradfrost.github.io/this-is-responsive/patterns.html)
