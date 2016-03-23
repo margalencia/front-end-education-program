@@ -1,4 +1,4 @@
-# Box model. Visual formatting model Advanced Level
+# Box model. Visual formatting model — Advanced Level
 
 1. [Модель отображения. Основы Олег Мохов Яндекс (блочная модель)](https://tech.yandex.ru/education/shri/ekb-2013/talks/1492/)
 2. [Модель отображения. Тонкости Олег Мохов Яндекс (z-index, очистка потока)](https://tech.yandex.ru/education/shri/ekb-2013/talks/1493/)
