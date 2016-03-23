@@ -1,4 +1,4 @@
-# Accessibility Advanced Level
+# Accessibility — Advanced Level
 
 3. Video [Leonie Watson, Introduction to accessibility mechanics](https://www.youtube.com/watch?v=vWveRBWNVWI)
 4. [HTML5 Accessibility Chops: section elements](https://www.paciellogroup.com/blog/2011/03/html5-accessibility-chops-section-elements/)
