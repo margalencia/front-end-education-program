@@ -11,7 +11,7 @@
        * [Beginner Level](html_beginner_level.md)
        * [Advanced Level](html_advanced_level.md)
    * [Accessibility](accessibility.md)
-       * [Accessibility Advanced Level](accessibility_advanced_level.md)
+       * [Advanced Level](accessibility_advanced_level.md)
    * [CSS Syntax, selectors and basic data types](css_syntax_selectors_and_basic_data_types.md)
        * [Beginner Level](css_syntax_selectors_and_basic_data_types_beginner_level.md)
        * [Advanced Level](css_syntax_selectors_and_basic_data_types_advanced_level.md)
