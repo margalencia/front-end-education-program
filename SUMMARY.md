@@ -13,7 +13,7 @@
    * [Accessibility](accessibility.md)
        * [Accessibility Advanced Level](accessibility_advanced_level.md)
    * [CSS Syntax, selectors and basic data types](css_syntax_selectors_and_basic_data_types.md)
-       * Beginner Level
+       * [Beginner Level](css_syntax_selectors_and_basic_data_types_beginner_level.md)
        * Advanced Level
    * [Box model. Visual formatting model](box_model_visual_formatting_model.md)
        * [Box model. Visual formatting model Beginner Level](box_model_visual_formatting_model_beginner_level.md)
