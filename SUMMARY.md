@@ -27,7 +27,7 @@
    * [JS basics, data structures](js_basics_data_structures.md)
    * [Functions, prototypes](functions_prototypes.md)
    * [DOM, Events](dom_events.md)
-   * [AJAX, Promices, Web sockets](ajax_promices_web_sockets.md)
+   * [AJAX, Promices, Web sockets](ajax_promises_web_sockets.md)
    * [JS patterns](js_patterns.md)
    * [JS tools](js_tools.md)
    * AngularJS
