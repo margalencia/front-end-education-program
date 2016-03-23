@@ -17,7 +17,7 @@
        * [Advanced Level](css_syntax_selectors_and_basic_data_types_advanced_level.md)
    * [Box model. Visual formatting model](box_model_visual_formatting_model.md)
        * [Beginner Level](box_model_visual_formatting_model_beginner_level.md)
-       * [Box model. Visual formatting model Advanced Level](box_model_visual_formatting_model_advanced_level.md)
+       * [Advanced Level](box_model_visual_formatting_model_advanced_level.md)
    * [Transition, transform, animation](transition_transform_animation.md)
        * [Transition, transform, animation Advanced level](transition,_transform,_animation_advanced_level.md)
    * [CSS Architecture](css_architecture.md)
