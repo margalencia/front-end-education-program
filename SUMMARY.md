@@ -8,7 +8,7 @@
    * [Advanced Level](web_browsers_advanced_level.md)
 * [Layout](layout.md)
    * [HTML](html.md)
-       * [HTML Beginner Level](html_beginner_level.md)
+       * [Beginner Level](html_beginner_level.md)
        * [HTML Advanced Level](html_advanced_level.md)
    * [Accessibility](accessibility.md)
        * [Accessibility Advanced Level](accessibility_advanced_level.md)
