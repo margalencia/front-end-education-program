@@ -19,7 +19,7 @@
        * [Beginner Level](box_model_visual_formatting_model_beginner_level.md)
        * [Advanced Level](box_model_visual_formatting_model_advanced_level.md)
    * [Transition, transform, animation](transition_transform_animation.md)
-       * [Transition, transform, animation Advanced level](transition,_transform,_animation_advanced_level.md)
+       * [Advanced level](transition,_transform,_animation_advanced_level.md)
    * [CSS Architecture](css_architecture.md)
    * [Layout for mobile](layout_for_mobile.md)
    * [CSS Tools](css_tools.md)
