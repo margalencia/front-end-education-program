@@ -1,4 +1,4 @@
-# Box model. Visual formatting model Beginner Level
+# Box model. Visual formatting model — Beginner Level
 
 3. [Раскладка в CSS: поток](http://softwaremaniacs.org/blog/2005/08/27/css-layout-flow/)
 4. [Границы и отступы в потоке](http://softwaremaniacs.org/blog/2005/09/05/css-layout-flow-margins/)
