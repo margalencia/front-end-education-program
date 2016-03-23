@@ -22,7 +22,6 @@
 ## Единицы измерения
 
 1. [http://www.w3schools.com/cssref/css_units.asp](http://www.w3schools.com/cssref/css_units.asp)
-2. [Презентация CSS: Значения и единицы измерения. Шрифт. Свойства текста](https://events.yandex.ru/lib/talks/561/)
 
 ## Семейства шрифтов
 
@@ -30,5 +29,5 @@
 
 ## Сброс стилей
 
-1. [http://habrahabr.ru/post/45296/](http://habrahabr.ru/post/45296/)
-2. [http://linux.yaroslavl.ru/docs/www/css/reset_css.html](http://linux.yaroslavl.ru/docs/www/css/reset_css.html)
+1. [Сброс стилей с помощью CSS Reset](http://habrahabr.ru/post/45296/)
+2. [Коллекция CSS Reset - стилей](http://linux.yaroslavl.ru/docs/www/css/reset_css.html)
