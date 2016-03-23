@@ -1,4 +1,4 @@
-# HTML Beginner Level
+# HTML — Beginner Level
 1. [MDN "Introduction to HTML"](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Introduction)
 2. [HTML <!DOCTYPE> Declaration](http://www.w3schools.com/tags/tag_doctype.asp) 
 2. [Article "What does a doctype do?"](https://blog.whiteboard.is/answering-front-end-developer-interview-questions-what-does-a-doctype-do-21bc97c7e873#.f337zfzet)
