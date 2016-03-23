@@ -1,4 +1,4 @@
-# Transition, transform, animation Advanced level
+# Transition, transform, animation — Advanced level
 
 1. [Презентация CSS: Transition. Transfrom. Animation](https://events.yandex.ru/lib/talks/565/)
 2. Эффекты на чистом css [ссылки](http://tympanus.net/Development/CreativeLinkEffects/), [кнопки](http://tympanus.net/Development/CreativeButtons/), [иконки](http://tympanus.net/Development/IconHoverEffects/)
