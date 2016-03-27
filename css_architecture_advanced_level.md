@@ -1,4 +1,4 @@
-# CSS Architecture – Advanced Level
+# CSS Architecture — Advanced Level
 
 ## BEM
 
