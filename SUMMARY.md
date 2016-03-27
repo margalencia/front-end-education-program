@@ -21,6 +21,7 @@
    * [Transition, transform, animation](transition_transform_animation.md)
        * [Advanced level](transition,_transform,_animation_advanced_level.md)
    * [CSS Architecture](css_architecture.md)
+       * Advanced Level
    * [Layout for mobile](layout_for_mobile.md)
    * [CSS Tools](css_tools.md)
 * [JavaScript](javascript.md)
