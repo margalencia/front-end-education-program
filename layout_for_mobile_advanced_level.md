@@ -16,21 +16,20 @@
 
 ## Mobile first
 
-1. Статья [Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
+1. [Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
 
-## Media Queries
+## Practice
 
 1. [https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 2. [http://www.w3schools.com/cssref/css3_pr_mediaquery.asp](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
-
-## Responsive практика
-
 1. [A collection of patterns and modules for responsive designs.](http://bradfrost.github.io/this-is-responsive/patterns.html)
 2. [Advanced RWD layout techniques](http://www.creativebloq.com/css3/advanced-rwd-layout-techniques-71412175?utm_source=CSS-Weekly&utm_campaign=Issue-118&utm_medium=email)
 3. Видео [http://code.tutsplus.com/tutorials/responsive-web-design-a-visual-guide--net-20262](http://code.tutsplus.com/tutorials/responsive-web-design-a-visual-guide--net-20262)
 4. [Как сделать один сайт для всех устройств (Responsive Web Design)](http://habrahabr.ru/post/125247/)
 5. [How To Use CSS3 Media Queries To Create a Mobile Version of Your Website](http://www.smashingmagazine.com/2010/07/19/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/)
 6. [Настройте область просмотра](https://developers.google.com/speed/docs/insights/ConfigureViewport?hl=ru#-)
+
+## Specifications
 
 ## Further reading
 
