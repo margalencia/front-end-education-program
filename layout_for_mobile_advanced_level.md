@@ -1,6 +1,4 @@
-# Advanced Level
-
-# Layout for mobile
+# Layout for mobile — Advanced Level
 
 1. [Идеологии разработки веб-интерфейсов, адаптивность, accessibility](https://events.yandex.ru/lib/talks/1500/)
 
