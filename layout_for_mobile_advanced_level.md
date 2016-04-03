@@ -29,6 +29,7 @@
 5. [How To Use CSS3 Media Queries To Create a Mobile Version of Your Website](http://www.smashingmagazine.com/2010/07/19/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/)
 6. [Choosing A Responsive Image Solution](https://www.smashingmagazine.com/2013/07/choosing-a-responsive-image-solution/)
 6. [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
+7. [Everything I know about Responsive Web Typography](http://zellwk.com/blog/responsive-typography/)
 
 ## Specifications
 1. [https://www.w3.org/TR/css3-mediaqueries/](https://www.w3.org/TR/css3-mediaqueries/)
