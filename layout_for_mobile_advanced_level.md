@@ -21,14 +21,14 @@
 ## Practice
 
 1. Google Developers [Настройте область просмотра](https://developers.google.com/speed/docs/insights/ConfigureViewport)
-2. [https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
-2. [http://www.w3schools.com/cssref/css3_pr_mediaquery.asp](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+2. MDN [Using media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
+2. [CSS3 @media Rule](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 1. [A collection of patterns and modules for responsive designs.](http://bradfrost.github.io/this-is-responsive/patterns.html)
 2. [Advanced RWD layout techniques](http://www.creativebloq.com/css3/advanced-rwd-layout-techniques-71412175?utm_source=CSS-Weekly&utm_campaign=Issue-118&utm_medium=email)
-3. Видео [http://code.tutsplus.com/tutorials/responsive-web-design-a-visual-guide--net-20262](http://code.tutsplus.com/tutorials/responsive-web-design-a-visual-guide--net-20262)
 4. [Как сделать один сайт для всех устройств (Responsive Web Design)](http://habrahabr.ru/post/125247/)
 5. [How To Use CSS3 Media Queries To Create a Mobile Version of Your Website](http://www.smashingmagazine.com/2010/07/19/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/)
-
+6. [Choosing A Responsive Image Solution](https://www.smashingmagazine.com/2013/07/choosing-a-responsive-image-solution/)
+6. [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 
 ## Specifications
 1. [https://www.w3.org/TR/css3-mediaqueries/](https://www.w3.org/TR/css3-mediaqueries/)
