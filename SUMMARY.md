@@ -31,6 +31,7 @@
    * [Functions, prototypes](functions_prototypes.md)
        * [Advanced Level](functions_prototypes_advanced_level.md)
    * [DOM, Events](dom_events.md)
+       * Advanced Level
    * [AJAX, Promises, Web sockets](ajax_promises_web_sockets.md)
    * [JS patterns](js_patterns.md)
    * [JS tools](js_tools.md)
