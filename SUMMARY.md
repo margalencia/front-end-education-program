@@ -30,6 +30,7 @@
        * [Advanced Level](JS_basics_data_structures_advanced_level.md)
    * [Functions, prototypes](functions_prototypes.md)
        * [Advanced Level](functions_prototypes_advanced_level.md)
+   * ECMAScript 6 — New Features
    * [DOM, Events](dom_events.md)
        * [Advanced Level](dom_events_advanced_level.md)
    * [AJAX, Promises, Web sockets](ajax_promises_web_sockets.md)
@@ -40,5 +41,4 @@
    * React.js
    * [JS tools](js_tools.md)
    * JS Tests
-   * ECMAScript 6 — New Features
 
