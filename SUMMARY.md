@@ -35,6 +35,7 @@
    * [AJAX, Promises, Web sockets](ajax_promises_web_sockets.md)
        * [Advanced Level](ajax_promices_web_sockets_advanced_level.md)
    * [JS patterns](js_patterns.md)
+       * Advanced Level
    * [JS tools](js_tools.md)
    * AngularJS
    * React.js
