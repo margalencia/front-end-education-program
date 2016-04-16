@@ -3,6 +3,7 @@
 1. [javascript.ru Замыкания, области видимости](http://learn.javascript.ru/functions-closures)
 2. [javascript.ru Методы объектов и контекст вызова](http://learn.javascript.ru/objects-more)
 3. Secrets of JavaScript Ninja Главы 3, 4, 5, 6
+4. [Explain JavaScript's encapsulated anonymous function syntax](http://stackoverflow.com/questions/1634268/explain-javascripts-encapsulated-anonymous-function-syntax)
 4. [javascript.ru ОПП в функциональном стиле](http://learn.javascript.ru/oop)
 5. [javascript.ru ООП в прототипном стиле](http://learn.javascript.ru/prototypes)
 6. [habrahabr Основы и заблуждения насчет JavaScript](https://habrahabr.ru/post/120193/)
