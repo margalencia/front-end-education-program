@@ -31,7 +31,7 @@
    * [Functions, prototypes](functions_prototypes.md)
        * [Advanced Level](functions_prototypes_advanced_level.md)
    * [ECMAScript 6 — New Features](ecmascript_6_new_features.md)
-       * Advanced Level
+       * [Advanced Level](ecmascript_6_new_features_advanced_level.md)
    * [DOM, Events](dom_events.md)
        * [Advanced Level](dom_events_advanced_level.md)
    * [AJAX, Promises, Web sockets](ajax_promises_web_sockets.md)
