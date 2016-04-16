@@ -29,6 +29,7 @@
    * [JS basics, data structures](js_basics_data_structures.md)
        * [Advanced Level](JS_basics_data_structures_advanced_level.md)
    * [Functions, prototypes](functions_prototypes.md)
+       * Advanced Level
    * [DOM, Events](dom_events.md)
    * [AJAX, Promises, Web sockets](ajax_promises_web_sockets.md)
    * [JS patterns](js_patterns.md)
