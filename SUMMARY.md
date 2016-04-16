@@ -38,7 +38,7 @@
        * [Advanced Level](ajax_promices_web_sockets_advanced_level.md)
    * [JS patterns](js_patterns.md)
        * [Advanced Level](js_patterns_advanced_level.md)
-   * AngularJS
+   * [AngularJS](angularjs.md)
    * React.js
    * [JS tools](js_tools.md)
    * JS Tests
