@@ -27,7 +27,7 @@
    * [CSS Tools](css_tools.md)
 * [JavaScript](javascript.md)
    * [JS basics, data structures](js_basics_data_structures.md)
-       * Advanced Level
+       * [Advanced Level](JS_basics_data_structures_advanced_level.md)
    * [Functions, prototypes](functions_prototypes.md)
    * [DOM, Events](dom_events.md)
    * [AJAX, Promises, Web sockets](ajax_promises_web_sockets.md)
