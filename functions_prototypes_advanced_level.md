@@ -1,2 +1,2 @@
-# Advanced Level
+# Functions, prototypes — Advanced Level
 
