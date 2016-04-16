@@ -1,2 +1,2 @@
-# Advanced Level
+# JS patterns — Advanced Level
 
