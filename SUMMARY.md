@@ -40,4 +40,5 @@
    * React.js
    * [JS tools](js_tools.md)
    * JS Tests
+   * ECMAScript 6 — New Features
 
