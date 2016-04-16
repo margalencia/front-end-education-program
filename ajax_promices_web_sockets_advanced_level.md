@@ -1,2 +1,2 @@
-# Advanced Level
+# AJAX, Promices, Web sockets — Advanced Level
 
