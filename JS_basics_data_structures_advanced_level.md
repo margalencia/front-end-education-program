@@ -1,4 +1,4 @@
-# Advanced Level
+# — Advanced Level
 
 1. [javascript.ru Основы JavaScript](http://learn.javascript.ru/first-steps)
 2. [javascript.ru Структуры данных](http://learn.javascript.ru/data-structures)
