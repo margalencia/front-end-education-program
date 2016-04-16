@@ -25,6 +25,7 @@
    * [Layout for mobile](layout_for_mobile.md)
        * [Advanced Level](layout_for_mobile_advanced_level.md)
    * [CSS Tools](css_tools.md)
+       * Advanced Level
 * [JavaScript](javascript.md)
    * [JS basics, data structures](js_basics_data_structures.md)
        * [Advanced Level](JS_basics_data_structures_advanced_level.md)
