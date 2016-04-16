@@ -5,3 +5,8 @@
 4. [Creating a CRUD App in Minutes with Angular’s $resource](http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/)
 
 
+## Further reading
+
+1. [ng-book](https://www.ng-book.com/)
+
+
