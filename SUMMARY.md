@@ -36,7 +36,7 @@
    * [DOM, Events](dom_events.md)
        * [Advanced Level](dom_events_advanced_level.md)
    * [AJAX, Promises, Web sockets](ajax_promises.md)
-       * [Advanced Level](ajax_promices_web_sockets_advanced_level.md)
+       * [Advanced Level](ajax_promises_advanced_level.md)
    * [JS patterns](js_patterns.md)
        * [Advanced Level](js_patterns_advanced_level.md)
    * [AngularJS](angularjs.md)
