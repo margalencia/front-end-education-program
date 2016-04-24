@@ -1,3 +1,3 @@
-# AJAX, Promises, Web sockets
+# AJAX, Promises
 
 
