@@ -1,4 +1,4 @@
-# AJAX, Promices, Web sockets — Advanced Level
+# AJAX, Promises — Advanced Level
 
 1. Архитектура клиент-сервер
 2. [Видео JavaScript: Асинхронность](https://events.yandex.ru/lib/talks/549/) 
