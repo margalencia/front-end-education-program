@@ -10,6 +10,7 @@
 7. [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 8. [Избегаем популярных ошибок в HTML5](http://web-standards.ru/articles/avoiding-html5-mistakes/)
 9. [HTML5 articles and sections: what’s the difference?](http://www.brucelawson.co.uk/2010/html5-articles-and-sections-whats-the-difference/)
+10. [Your logo is an image, not a <h1>](http://csswizardry.com/2010/10/your-logo-is-an-image-not-a-h1/)
 8. [Why Tables Are Bad (For Layout)](http://phrogz.net/css/WhyTablesAreBadForLayout.html)
 8. [html5doctor.com](http://html5doctor.com/) - use it to choose a proper HTML element
 
