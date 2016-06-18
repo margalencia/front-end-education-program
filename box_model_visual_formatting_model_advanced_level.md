@@ -17,6 +17,7 @@
 3. [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
 4. [`flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/)
 5. [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+6. [Flexbox Patterns](http://www.flexboxpatterns.com/)
 
 ### Grid layout
 
