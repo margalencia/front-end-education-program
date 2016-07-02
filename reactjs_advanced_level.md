@@ -1,4 +1,4 @@
-# AngularJS — Advanced Level
+# React.js — Advanced Level
 
 1. [React.js Official Tutorial](https://facebook.github.io/react/docs/getting-started.html)
 2. [Краткое руководство по React JS](https://habrahabr.ru/post/248799/)
