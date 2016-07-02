@@ -42,7 +42,7 @@
    * [AngularJS](angularjs.md)
        * [Advanced Level](angular_js_advanced_level.md)
    * [React.js](reactjs.md)
-       * Advanced Level
+       * [Advanced Level](reactjs_advanced_level.md)
    * [JS tools](js_tools.md)
    * JS Tests
 
