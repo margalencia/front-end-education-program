@@ -1,4 +1,4 @@
-# AngularJS AngularJS — Advanced Level
+# AngularJS — Advanced Level
 
 1. [Free Course 'Shaping Up With AngularJS'](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 2. [Official Tutorial](https://docs.angularjs.org/tutorial)
