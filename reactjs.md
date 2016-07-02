@@ -7,7 +7,6 @@
 2. [React Cheat Sheet](http://reactcheatsheet.com/)
 2. [Погружение в React: роутер](http://prgssr.ru/development/pogruzhenie-v-react-router.html)
 
-
 ## Redux
 
 1. [Погружение в React: Redux](http://prgssr.ru/development/pogruzhenie-v-react-redux.html)
