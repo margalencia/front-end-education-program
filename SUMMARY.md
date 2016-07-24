@@ -39,7 +39,6 @@
    * [JS patterns](js_patterns.md)
        * [Advanced Level](js_patterns_advanced_level.md)
    * [AngularJS](angularjs.md)
-       * [Advanced Level](angular_js_advanced_level.md)
    * [React.js](reactjs.md)
    * [JS tools](js_tools.md)
    * JS Tests
