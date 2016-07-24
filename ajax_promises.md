@@ -1,3 +1,3 @@
-# AJAX, Promises
+# Asynchrony
 
 
