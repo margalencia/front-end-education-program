@@ -35,7 +35,7 @@
        * [Advanced Level](ecmascript_6_new_features_advanced_level.md)
    * [DOM, Events](dom_events.md)
        * [Advanced Level](dom_events_advanced_level.md)
-   * [AJAX, Promises](asynchrony.md)
+   * [Asynchrony](asynchrony.md)
    * [JS patterns](js_patterns.md)
        * [Advanced Level](js_patterns_advanced_level.md)
    * [AngularJS](angularjs.md)
