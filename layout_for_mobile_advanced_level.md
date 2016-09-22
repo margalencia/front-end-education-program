@@ -20,7 +20,8 @@
 
 ## Practice
 
-1. Google Developers [Настройте область просмотра](https://developers.google.com/speed/docs/insights/ConfigureViewport)
+1. [Делать ли мобильную версию? 5 распространенных проблем, которые решает адаптивная верстка. Опыт Яндекса](https://habrahabr.ru/company/yandex/blog/307064/)
+2. Google Developers [Настройте область просмотра](https://developers.google.com/speed/docs/insights/ConfigureViewport)
 2. MDN [Using media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 2. [CSS3 @media Rule](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 1. [A collection of patterns and modules for responsive designs.](http://bradfrost.github.io/this-is-responsive/patterns.html)
