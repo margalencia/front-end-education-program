@@ -13,6 +13,12 @@
 2. [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.1u9gcsimw)
 3. [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.ocsp82bv0)
 
+## Books
+
+[Eloquent JavaScript](http://eloquentjavascript.net/) (RU [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/))
+[Secrets of the JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X) (RU [Секреты JavaScript ниндзя](http://www.ozon.ru/context/detail/id/22421421/))
+[You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) (RU [Вы не знаете JS (книжная серия)](https://github.com/azat-io/you-dont-know-js-ru))
+
 
 
 
