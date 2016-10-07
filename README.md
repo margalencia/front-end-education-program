@@ -13,6 +13,11 @@
 2. [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.1u9gcsimw)
 3. [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.ocsp82bv0)
 
+
+## Links
+
+1. [Manually curated collection of resources for frontend web developers](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 ## Books
 
 1. [Eloquent JavaScript](http://eloquentjavascript.net/) (RU [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/))
