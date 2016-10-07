@@ -23,6 +23,7 @@
 1. [Eloquent JavaScript](http://eloquentjavascript.net/) (RU [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/))
 1. [Secrets of the JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X) (RU [Секреты JavaScript ниндзя](http://www.ozon.ru/context/detail/id/22421421/))
 1. [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) (RU [Вы не знаете JS (книжная серия)](https://github.com/azat-io/you-dont-know-js-ru))
+2. [Programming JavaScript Applications Eric Elliott](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 
 
 
