@@ -41,5 +41,5 @@
    * [AngularJS](angularjs.md)
    * [React.js](reactjs.md)
    * [JS tools](js_tools.md)
-   * JS Tests
+   * [JS Tests](js_tests.md)
 
