@@ -3,8 +3,10 @@
 1. [Free Course 'Shaping Up With AngularJS'](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 2. [Official Tutorial](https://docs.angularjs.org/tutorial)
 2. [angular-styleguide](https://github.com/johnpapa/angular-styleguide)
-3. [AngularJS Best Practices: Directory Structure](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
 4. [Creating a CRUD App in Minutes with Angular’s $resource](http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/)
+
+## AngularJS + ES6
+1. [Angular 1.x styleguide (ES2015)](https://github.com/toddmotto/angular-styleguide)
 
 ## Testing
 1. [AngularJS Testing Tips: Testing Directives](https://www.sitepoint.com/angular-testing-tips-testing-directives/)
