@@ -1,4 +1,10 @@
 # JS tools
+## Webpack
+
+1. [https://webpack.github.io](https://webpack.github.io)
+2. [Скринкаст WEBPACK](http://learn.javascript.ru/screencast/webpack)
+2. [Building with Webpack](http://survivejs.com/webpack/building-with-webpack/)
+
 ## Package managers
 
 1. [https://docs.npmjs.com/](https://docs.npmjs.com/)
@@ -24,7 +30,7 @@
 1. [http://requirejs.org/](Лоадеры http://requirejs.org/ http://browserify.org/ https://github.com/systemjs/systemjs https://webpack.github.io (приоритет)
 2. [http://browserify.org/](Лоадеры http://requirejs.org/ http://browserify.org/ https://github.com/systemjs/systemjs https://webpack.github.io (приоритет)
 3. [https://github.com/systemjs/systemjs](https://github.com/systemjs/systemjs)
-4. [https://webpack.github.io](https://webpack.github.io)
+4. 
 
 
  
