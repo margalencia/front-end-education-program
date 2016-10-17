@@ -6,6 +6,9 @@
 3. [AngularJS Best Practices: Directory Structure](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
 4. [Creating a CRUD App in Minutes with Angular’s $resource](http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/)
 
+## Testing
+1. [AngularJS Testing Tips: Testing Directives](https://www.sitepoint.com/angular-testing-tips-testing-directives/)
+
 ## Documentation
 
 1. [Developer Guide](https://docs.angularjs.org/guide)
