@@ -14,4 +14,6 @@
 ## Further reading
 
 1. [ng-book](https://www.ng-book.com/)
+2. [Mastering Web Application Development with AngularJS](https://www.amazon.com/Mastering-Web-Application-Development-AngularJS/dp/1782161821)
+3. [Build Your Own AngularJS](https://teropa.info/build-your-own-angular/)
 
