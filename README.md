@@ -7,13 +7,9 @@
 3. [Hexlet: Основы программирования](https://ru.hexlet.io/courses/programming-basics)
 4. [CS50 Introduction to Computer Science, Harvard](https://cs50.harvard.edu/lectures)
 5. [Алгоритмы: теория и практика. Методы](https://stepik.org/course/Алгоритмы-теория-и-практика-Методы-217/)
-
 6. [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/Алгоритмы-теория-и-практика-Структуры-данных-1547)
-
 7. [Stanford CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
-
 8. [Stanford CS106B - Programming Abstractions](https://see.stanford.edu/Course/CS106B)
-
 9. [Stanford CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)
 
 ## Articles
