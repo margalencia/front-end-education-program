@@ -19,17 +19,16 @@
 4. [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 5. [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) \(see all [series](https://medium.com/javascript-scene/search?q=Master the JavaScript Interview)\)
 6. [https://github.com/dzmitry-varabei/asmt-javascript-questions](https://github.com/dzmitry-varabei/asmt-javascript-questions)
-7. [Заметки о собеседованиях для веб-разработчиков](http://nano.sapegin.ru/all/coding-interview)
+7. [Заметки о собеседованиях для веб-разработчиков](http://nano.sapegin.ru/all/coding-interview)
 
 ## Tasks
 
 1. [https://projecteuler.net/archives ](https://projecteuler.net/archives)
 2. [Javascript quiz](http://perfectionkills.com/javascript-quiz/)
 3. [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/?go=all/searching-for-job-2016/)
+4. [https://www.codewars.com/](https://www.codewars.com/)
 
 ## Hardcore
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-
-
 
