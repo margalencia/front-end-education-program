@@ -10,7 +10,11 @@
 
 6. [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/Алгоритмы-теория-и-практика-Структуры-данных-1547)
 
-7. [Stanford CS106B - Programming Abstractions](https://see.stanford.edu/Course/CS106B)
+7. [Stanford CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
+
+8. [Stanford CS106B - Programming Abstractions](https://see.stanford.edu/Course/CS106B)
+
+9. [Stanford CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)
 
 ## Articles
 
