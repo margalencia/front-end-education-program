@@ -6,9 +6,11 @@
 2. [KHAN academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 3. [Hexlet: Основы программирования](https://ru.hexlet.io/courses/programming-basics)
 4. [CS50 Introduction to Computer Science, Harvard](https://cs50.harvard.edu/lectures)
-5. [Алгоритмы: теория и практика. Методы](https://stepik.org/course/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-217/)
+5. [Алгоритмы: теория и практика. Методы](https://stepik.org/course/Алгоритмы-теория-и-практика-Методы-217/)
 
-6. [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-1547)
+6. [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/Алгоритмы-теория-и-практика-Структуры-данных-1547)
+
+7. [Stanford CS106B - Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 
 ## Articles
 
