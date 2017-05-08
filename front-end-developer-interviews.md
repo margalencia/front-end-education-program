@@ -6,6 +6,11 @@
 2. [11 Essential AngularJS Interview Questions\*](https://www.toptal.com/angular-js/interview-questions)
 3. [AngularJS Interview Questions](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 4. [Latest AngularJS interview questions - Part 1](http://www.jquerybyexample.net/2014/12/latest-angularjs-interview-question-1.html)
+5. [Awesome Interviews \(AngularJS\)](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/README.md#angularjs)
+
+## React.js
+
+[Awesome Interviews \(React\)](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/README.md#reactjs)
 
 ## NodeJS
 
