@@ -36,6 +36,7 @@
 2. [Javascript quiz](http://perfectionkills.com/javascript-quiz/)
 3. [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/?go=all/searching-for-job-2016/)
 4. [https://www.codewars.com/](https://www.codewars.com/)
+5. [http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/ ](http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/)
 
 ## Hardcore
 
