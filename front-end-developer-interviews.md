@@ -33,10 +33,11 @@
 ## Tasks
 
 1. [https://projecteuler.net/archives ](https://projecteuler.net/archives)
-2. [Javascript quiz](http://perfectionkills.com/javascript-quiz/)
-3. [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/?go=all/searching-for-job-2016/)
-4. [https://www.codewars.com/](https://www.codewars.com/)
-5. [http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/ ](http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/)
+2. http://www.thatjsdude.com/interview/js1.html 
+3. [Javascript quiz](http://perfectionkills.com/javascript-quiz/)
+4. [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/?go=all/searching-for-job-2016/)
+5. [https://www.codewars.com/](https://www.codewars.com/)
+6. [http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/ ](http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/)
 
 ## Hardcore
 
