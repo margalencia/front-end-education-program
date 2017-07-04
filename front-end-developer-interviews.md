@@ -32,12 +32,14 @@
 
 ## Tasks
 
-1. [https://projecteuler.net/archives ](https://projecteuler.net/archives)
-2. http://www.thatjsdude.com/interview/js1.html 
-3. [Javascript quiz](http://perfectionkills.com/javascript-quiz/)
-4. [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/?go=all/searching-for-job-2016/)
-5. [https://www.codewars.com/](https://www.codewars.com/)
-6. [http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/ ](http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/)
+1. [The Best Frontend JavaScript Interview Questions \(written by a Frontend Engineer\)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
+2. [http://reactivex.io/learnrx/](http://reactivex.io/learnrx/)
+3. [https://projecteuler.net/archives ](https://projecteuler.net/archives)
+4. [http://www.thatjsdude.com/interview/js1.html](http://www.thatjsdude.com/interview/js1.html) 
+5. [Javascript quiz](http://perfectionkills.com/javascript-quiz/)
+6. [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/?go=all/searching-for-job-2016/)
+7. [https://www.codewars.com/](https://www.codewars.com/)
+8. [http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/ ](http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/)
 
 ## Hardcore
 
