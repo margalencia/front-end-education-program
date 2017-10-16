@@ -42,5 +42,6 @@
   * [React.js](reactjs.md)
   * [JS tools](js_tools.md)
   * [JS Tests](js_tests.md)
+  * [NodeJS](nodejs.md)
 * [Front-end developer interviews](front-end-developer-interviews.md)
 
