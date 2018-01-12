@@ -29,6 +29,7 @@
 5. [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) \(see all [series](https://medium.com/javascript-scene/search?q=Master the JavaScript Interview)\)
 6. [https://github.com/dzmitry-varabei/asmt-javascript-questions](https://github.com/dzmitry-varabei/asmt-javascript-questions)
 7. [Заметки о собеседованиях для веб-разработчиков](http://nano.sapegin.ru/all/coding-interview)
+8. [The Definitive JavaScript Handbook for your next developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 
 ## Tasks
 
