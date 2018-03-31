@@ -18,14 +18,12 @@
 ## Check lists
 
 1. [https://webaim.org/standards/wcag/checklist](https://webaim.org/standards/wcag/checklist)
-2. [http://accessibility.voxmedia.com/\#engineers](http://accessibility.voxmedia.com/)
+2. [http://accessibility.voxmedia.com/](http://accessibility.voxmedia.com/)
 
 ## Keyboard accessibility
 
 1. [https://www.w3.org/TR/wai-aria-practices/](https://www.w3.org/TR/wai-aria-practices/)
 2. [https://webaim.org/techniques/keyboard/](https://webaim.org/techniques/keyboard/)
-
-
 
 
 
