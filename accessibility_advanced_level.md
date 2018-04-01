@@ -25,10 +25,12 @@
 1. [https://www.w3.org/TR/wai-aria-practices/](https://www.w3.org/TR/wai-aria-practices/)
 2. [https://webaim.org/techniques/keyboard/](https://webaim.org/techniques/keyboard/)
 
-Guides
+## Guides
 
 1. [https://developers.google.com/web/fundamentals/accessibility/](https://developers.google.com/web/fundamentals/accessibility/) 
 2. [https://material.io/guidelines/usability/accessibility.html ](https://material.io/guidelines/usability/accessibility.html)
 
+## Course
 
+[https://www.udacity.com/course/web-accessibility--ud891 ](https://www.udacity.com/course/web-accessibility--ud891)
 
