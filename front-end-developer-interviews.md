@@ -31,6 +31,7 @@
 7. [https://github.com/dzmitry-varabei/asmt-javascript-questions](https://github.com/dzmitry-varabei/asmt-javascript-questions)
 8. [Заметки о собеседованиях для веб-разработчиков](http://nano.sapegin.ru/all/coding-interview)
 9. [The Definitive JavaScript Handbook for your next developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
+10. [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 
 ## Tasks
 
