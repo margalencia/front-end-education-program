@@ -1,4 +1,4 @@
-# Asynchrony
+# Asynchronous JavaScript
 
 1. [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLswsjU_X520TEQmEnQHD90-XHURSQpjSr)
 2. [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
