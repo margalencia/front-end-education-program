@@ -11,7 +11,7 @@
 7. [Stanford CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 8. [Stanford CS106B - Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 9. [Stanford CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)
-10. [MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+10. [MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/), for example [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 ## Articles
 
